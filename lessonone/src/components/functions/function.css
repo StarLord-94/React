@@ -1,0 +1,29 @@
+.functionContainer{
+    width: 31.6%;
+    min-height: 260px;
+    text-align: center;
+}
+
+.functionHeading {
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 29px;
+    display: block;
+    color: black;
+}
+
+.functionButton{
+    background-color: #F16D7F;
+    height: 50px;
+    width: 167px;
+    margin-top: 39px;
+    margin-bottom: 96px;
+}
+
+.functionHeading__text{
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 17px;
+}
