@@ -1,10 +1,6 @@
-import { Functionmessage } from './functionmessage';
-import '../../styles/function.css';
+import { Functionmessage } from "./functionmessage";
+import "./function.css";
 
 export const Functionform = () => {
-
-
-    return <>
-        <Functionmessage name='Website' />
-    </>
-}
+  return <Functionmessage name="Website" />;
+};
